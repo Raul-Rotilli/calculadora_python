@@ -46,6 +46,3 @@ class Calculadora:
 
     def divisao(self):
         return self._n1 / self._n2
-
-    def sair(self):
-        pass
